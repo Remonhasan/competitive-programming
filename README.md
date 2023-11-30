@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# Competitive Programming Repository
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the Competitive Programming Repository! This project is under contruction !
+🚀 This repository houses a comprehensive collection of resources, guidelines, and problem-solving solutions aimed at helping beginners and enthusiasts delve into the world of competitive programming.
 
-## Available Scripts
+## Table of Contents
 
-In the project directory, you can run:
+- [Introduction](#introduction)
+- [Guidelines](#guidelines)
+- [Roadmap](#roadmap)
+- [Codeforces Solutions](#codeforces-solutions)
+- [Tutorials](#tutorials)
+- [Contributing](#contributing)
+- [License](#license)
 
-### `npm start`
+## Introduction
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This repository is dedicated to providing a structured approach to competitive programming. Whether you're new to the scene or aiming to enhance your skills, you'll find valuable resources, tips, and tutorials to accelerate your learning curve.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Guidelines
 
-### `npm test`
+Here, we offer comprehensive guidelines that cover everything from starting your competitive programming journey to mastering complex problem-solving techniques. Dive into our guidelines to gain insights, strategies, and best practices for excelling in competitive programming contests.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Roadmap
 
-### `npm run build`
+Our curated roadmap provides a step-by-step guide for navigating the competitive programming landscape. It outlines a suggested path for learning various algorithms, data structures, and advanced problem-solving techniques necessary to succeed in competitions like Codeforces, TopCoder, and more.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Codeforces Solutions
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Explore a vast array of solutions to problems from Codeforces, organized systematically for easy reference. Gain valuable insights into problem-solving approaches and improve your coding skills by studying these solutions.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Tutorials
 
-### `npm run eject`
+Access a collection of tutorials covering fundamental and advanced topics related to competitive programming. From algorithms and data structures to dynamic programming and graph theory, these tutorials are designed to help you grasp concepts effectively.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contributing
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+We welcome contributions from the community to enrich this repository further. Whether it's adding new solutions, enhancing existing guidelines, or suggesting improvements, your contributions are highly appreciated. Please check our [contribution guidelines](CONTRIBUTING.md) for more information.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## License
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This repository is licensed under the [MIT License](LICENSE), allowing you to freely use, modify, and distribute the contents while attributing credit to the contributors.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Feel free to star ⭐ this repository if you find it helpful! Your feedback and contributions are invaluable in making this repository a comprehensive resource hub for competitive programming enthusiasts.
